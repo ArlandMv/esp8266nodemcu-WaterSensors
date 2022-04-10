@@ -10,6 +10,8 @@ This equipment has the function of analyzing the largest possible number of sens
 
 ## Optimizations
 
+![ESP8266-pinout-image](images/ESP8266-NodeMCU-kit-12-E-pinout-gpio-pin.jpg)
+
 ### Used millis() instead of delay()
 
 First step to use FreeRTOS funtionality
